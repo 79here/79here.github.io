@@ -1,0 +1,11 @@
+# Site settings
+title: 79here
+email: leejie79@126.com
+description: think and just write it down
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://79here.github.io/" # the base hostname & protocol for your site
+github_username:  79here
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
